@@ -1,0 +1,119 @@
+{
+    "Debug": {
+        "DataBase": {
+            "1": {
+                "ip": "127.0.0.1",
+                "password": "gJFAaqVNM3Nybs3J",
+                "port": "3306",
+                "user": "rogame"
+            }
+        },
+        "Redis": {
+            "ip": "43.229.135.243",
+            "password": "idqwjuidjqwyduqwh*+za",
+            "port": "6379"
+        },
+        "RollbackDataBase": {
+            "1": {
+                "ip": "127.0.0.1",
+                "password": "gJFAaqVNM3Nybs3J",
+                "port": "3306",
+                "user": "rogame"
+            }
+        },
+        "TradeDataBase": {
+            "1": {
+                "ip": "127.0.0.1",
+                "password": "gJFAaqVNM3Nybs3J",
+                "port": "3306",
+                "user": "rogame"
+            }
+        },
+        "plat_ip": "127.0.0.1",
+        "plat_port": 2121,
+        "tapdb_appid": "mstl7ve57kljoncq",
+        "trade_give_starttime": "2023-07-07 00:00:00"
+    },
+    "Publish": {
+        "DataBase": {
+            "1": {
+                "ip": "127.0.0.1",
+                "password": "gJFAaqVNM3Nybs3J",
+                "port": "3306",
+                "user": "rogame"
+            }
+        },
+        "Redis": {
+            "ip": "43.229.135.243",
+            "password": "idqwjuidjqwyduqwh*+za",
+            "port": "6379"
+        },
+        "RollbackDataBase": {
+            "1": {
+                "ip": "127.0.0.1",
+                "password": "gJFAaqVNM3Nybs3J",
+                "port": "3306",
+                "user": "rogame"
+            }
+        },
+        "TradeDataBase": {
+            "1": {
+                "ip": "127.0.0.1",
+                "password": "gJFAaqVNM3Nybs3J",
+                "port": "3306",
+                "user": "rogame"
+            }
+        },
+        "plat_ip": "43.229.135.243",
+        "plat_port": 2121,
+        "tapdb_appid": "s8nltyei9wt4ckxv",
+        "trade_give_starttime": "2023-07-07 00:00:00"
+    },
+    "TF": {
+        "DataBase": {
+            "1": {
+                "ip": "127.0.0.1",
+                "password": "gJFAaqVNM3Nybs3J",
+                "port": "3306",
+                "user": "rogame"
+            },
+            "2": {
+                "ip": "127.0.0.1",
+                "password": "gJFAaqVNM3Nybs3J",
+                "port": "3306",
+                "user": "rogame"
+            },
+            "3": {
+                "ip": "127.0.0.1",
+                "password": "gJFAaqVNM3Nybs3J",
+                "port": "3306",
+                "user": "rogame"
+            }
+        },
+        "Redis": {
+            "ip": "43.229.135.243",
+            "password": "idqwjuidjqwyduqwh*+za",
+            "port": "6379"
+        },
+        "RollbackDataBase": {
+            "1": {
+                "ip": "127.0.0.1",
+                "password": "gJFAaqVNM3Nybs3J",
+                "port": "3306",
+                "user": "rogame"
+            }
+        },
+        "TradeDataBase": {
+            "1": {
+                "ip": "127.0.0.1",
+                "password": "gJFAaqVNM3Nybs3J",
+                "port": "3306",
+                "user": "rogame"
+            }
+        },
+        "plat_ip": "43.229.135.243",
+        "plat_port": 2121,
+        "tapdb_appid": "mstl7ve57kljoncq",
+        "trade_give_starttime": "2023-07-07 00:00:00"
+    }
+}
