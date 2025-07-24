@@ -1,0 +1,13 @@
+# Ignore backup-related files/folders in SV-6vs6
+SV-6vs6/*BAK/
+SV-6vs6/*_bakup/
+SV-6vs6/*-BAK/
+SV-6vs6/*.tgz
+SV-6vs6/nohup.out
+
+# Ignore backup-related files/folders in SV-Playzone
+SV-Playzone/*BAK/
+SV-Playzone/*_bakup/
+SV-Playzone/*-BAK/
+SV-Playzone/*.tgz
+SV-Playzone/nohup.out
