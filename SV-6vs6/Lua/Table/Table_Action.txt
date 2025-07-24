@@ -1,0 +1,17 @@
+--md5:42aa363e76bc40a382b1e84400cd68e0
+Table_Action = { 
+	[1000] = {id = 1000, actions = {type="sysmsg",params={id=3300}}, desc = 'Remind the target of items cast on him and the user'},
+	[1001] = {id = 1001, actions = {type="playeffect",params={id=3,time=2}}, desc = 'Play victory SFX'},
+	[1002] = {id = 1002, actions = {type="exp",params={method="add_base",script="calcAdventureGuideBaseExp"}}, desc = 'Increases target’s Base experience'},
+	[1003] = {id = 1003, actions = {type="exp",params={method="add_job",script="calcAdventureGuideJobExp"}}, desc = 'Increases target’s Job experience'},
+	[1004] = {id = 1004, actions = {type="buff",params={method="add",id=1540}}, desc = 'Grants target a buff: Digesting adventure knowledge, the Job and Base experience gained by killing monsters increases by 70%.'},
+	[1100] = {id = 1100, actions = {type="sysmsg",params={id=3300}}, desc = 'Remind the target of items cast on him and the user'},
+	[1101] = {id = 1101, actions = {type="playeffect",params={id=4,time=2}}, desc = 'Play SFX'},
+	[1102] = {id = 1102, actions = {type="playeffect",params={id=5,time=3}}, desc = 'Play SFX'},
+	[1103] = {id = 1103, actions = {type="playeffect",params={id=6,time=4}}, desc = 'Play SFX'},
+	[1104] = {id = 1104, actions = {type="playeffect",params={id=7,time=5}}, desc = 'Play SFX'},
+	[1105] = {id = 1105, actions = {type="playeffect",params={id=8,time=6}}, desc = 'Play SFX'},
+	[1106] = {id = 1106, actions = {type="playeffect",params={id=9,time=7}}, desc = 'Play SFX'},
+	[1107] = {id = 1107, actions = {type="buff",params={method="add",id=1550}}, desc = 'Grants target a buff: Each of the Six Attributess increases by 20.'},
+}
+return Table_Action

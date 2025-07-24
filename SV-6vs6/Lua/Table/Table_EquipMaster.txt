@@ -1,0 +1,25 @@
+--md5:d522427cea53fed0eea34da99b2f2c87
+Table_EquipMaster = { 
+	[1] = {id = 1, type = 'RefineMaster', Needlv = 0, AddAttr = {}, Name = 'Refining Lv. 0', Dsc = 'Every 7 equipments refining ＋1, You will gain a boost.'},
+	[2] = {id = 2, type = 'RefineMaster', Needlv = 1, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv.1', Dsc = ''},
+	[3] = {id = 3, type = 'RefineMaster', Needlv = 2, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv. 2', Dsc = ''},
+	[4] = {id = 4, type = 'RefineMaster', Needlv = 3, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv. 3', Dsc = ''},
+	[5] = {id = 5, type = 'RefineMaster', Needlv = 4, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv. 4', Dsc = ''},
+	[6] = {id = 6, type = 'RefineMaster', Needlv = 5, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv. 5', Dsc = ''},
+	[7] = {id = 7, type = 'RefineMaster', Needlv = 6, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv. 6', Dsc = ''},
+	[8] = {id = 8, type = 'RefineMaster', Needlv = 7, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv. 7', Dsc = ''},
+	[9] = {id = 9, type = 'RefineMaster', Needlv = 8, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv. 8', Dsc = ''},
+	[10] = {id = 10, type = 'RefineMaster', Needlv = 9, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv. 9', Dsc = ''},
+	[11] = {id = 11, type = 'RefineMaster', Needlv = 10, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv.10', Dsc = ''},
+	[12] = {id = 12, type = 'RefineMaster', Needlv = 11, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv.11', Dsc = ''},
+	[13] = {id = 13, type = 'RefineMaster', Needlv = 12, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv.12', Dsc = ''},
+	[14] = {id = 14, type = 'RefineMaster', Needlv = 13, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv.13', Dsc = ''},
+	[15] = {id = 15, type = 'RefineMaster', Needlv = 14, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv.14', Dsc = ''},
+	[16] = {id = 16, type = 'RefineMaster', Needlv = 15, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv.15', Dsc = ''},
+	[17] = {id = 17, type = 'RefineMaster', Needlv = 16, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv.16', Dsc = ''},
+	[18] = {id = 18, type = 'RefineMaster', Needlv = 17, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv.17', Dsc = ''},
+	[19] = {id = 19, type = 'RefineMaster', Needlv = 18, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv.18', Dsc = ''},
+	[20] = {id = 20, type = 'RefineMaster', Needlv = 19, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv.19', Dsc = ''},
+	[21] = {id = 21, type = 'RefineMaster', Needlv = 20, AddAttr = {{name='Atk',value=1},{name='MAtk',value=1},{name='MaxHp',value=1}}, Name = 'Refining Lv. 20', Dsc = ''},
+}
+return Table_EquipMaster

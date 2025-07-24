@@ -1,0 +1,4 @@
+--md5:ec99d80704a7d7863d175648a1142701
+Table_ExchangeShop = { 
+}
+return Table_ExchangeShop

@@ -1,0 +1,18 @@
+--md5:66d54fc0f59659e3ce2c3f2e371e1f5f
+Table_Question = { 
+	[1] = {id = 1, Title = 'Odin the Great Lord', Option = {}, }, 
+	[2] = {id = 2, Title = 'Grant beauty and love to the world', Option = {}, }, 
+	[3] = {id = 3, Title = 'The Beautiful Rose of Life will never die', Option = {}, }, 
+	[4] = {id = 4, Title = 'The Flame of Love will never extinguish', Option = {}, }, 
+	[5] = {id = 5, Title = 'Let’s pray for this young adventurer couple', Option = {}, }, 
+	[6] = {id = 6, Title = 'Angels, sing the Hymn of Praise to bless this', Option = {}, }, 
+	[7] = {id = 7, Title = 'Your happy life begins from now on', Option = {}, }, 
+	[8] = {id = 8, Title = 'People who are looking forward to the happiness of the future, please remember this moment forever! Are you ready?', Option = {{id=1,content="准备好了"},{id=2,content="没准备好"} }, Right = 1},
+	[9] = {id = 9, Title = 'Are you willing to protect each other in the adventure of love and courage no matter what difficulties and dangers?', Option = {{id=1,content="愿意"},{id=2,content="不愿意"} }, Right = 1},
+	[10] = {id = 10, Title = 'Are you willing to guard your love with your life till the end of the world?', Option = {{id=1,content="愿意"},{id=2,content="不愿意"} }, Right = 1},
+	[11] = {id = 11, Title = '%s are you willing to be %s’s lifelong partner and love her/him, protect her/him forever?', Option = {{id=1,content="我愿意"},{id=2,content="不愿意"} }, Right = 1},
+	[12] = {id = 12, Title = 'Take out your rings cautiously and hold them near your heart. Write the eternal vow of love with your heart!', Option = {{id=1,content="拿起"},{id=2,content="不拿"} }, Right = 1},
+	[13] = {id = 13, Title = 'Engrave your name on each other’s heart, please put the ring on your partner’s finger.', Option = {{id=1,content="戴上"},{id=2,content="反悔"} }, Right = 1},
+	[14] = {id = 14, Title = 'From now on, you have become lifelong partners In the name of Odin, I bless your love will last to the end of the world', Option = {}, }, 
+}
+return Table_Question

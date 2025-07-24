@@ -1,0 +1,12 @@
+--md5:01127b1b949b35fc86515dd1b6a400e9
+Table_SceneInteractionObject = { 
+	[1] = {id = 1, ResetDelay = 10, CD = 2, ResetAnimation = 'state2001', description = 'Grass'},
+	[2] = {id = 2, ResetDelay = 10, CD = 3, ResetAnimation = 'state2001', description = 'Flower'},
+	[3] = {id = 3, ResetDelay = 10, CD = 10, ResetAnimation = 'state1001', description = 'Butterfly'},
+	[4] = {id = 4, ResetDelay = 3, CD = 2, ResetAnimation = '', description = 'Cat Eye'},
+	[5] = {id = 5, ResetDelay = 5, CD = 3, ResetAnimation = '', description = 'Cat Paw'},
+	[6] = {id = 6, ResetDelay = 5, CD = 3, ResetAnimation = '', description = 'Cat Tail'},
+	[7] = {id = 7, ResetDelay = 5, CD = 3, ResetAnimation = 'state1001', description = 'Soul A'},
+	[8] = {id = 8, ResetDelay = 5, CD = 3, ResetAnimation = 'state1001', description = 'Soul B'},
+}
+return Table_SceneInteractionObject

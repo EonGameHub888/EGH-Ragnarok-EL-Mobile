@@ -1,0 +1,7 @@
+--md5:7d7f6d1a107dc86a77492a7bb2e9b3e0
+Table_SystemChat = { 
+	[1] = {id = 1, channel = {2,3}, Type = 1, Text = 'Get [63cd4e]%s[-] Job EXP', remark = 'EXP obtained notification'},
+	[2] = {id = 2, channel = {2,3}, Type = 1, Text = 'Get [63cd4e]%s[-] Base EXP', remark = 'Career EXP obtained'},
+	[3] = {id = 3, channel = {2,3}, Type = 1, Text = 'Get {itemicon=%s}{item=%s,%s}', remark = 'Item obtained notification'},
+}
+return Table_SystemChat

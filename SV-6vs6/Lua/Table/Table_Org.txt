@@ -1,0 +1,24 @@
+--md5:21c70bfa943c9a129331d117f63d11e8
+Table_Org = { 
+	[1] = {id = 1, NameZh = '', Emblem = '', Leader = '', Superior = '', HQ = '', Force = '', Info = 'An anonymous organization, applied to the commoners.'},
+	[2] = {id = 2, NameZh = 'Eden Team', Emblem = '', Leader = '', Superior = 'Adventurer’s Guild', HQ = 'Prontera', Force = 'Rune-Midgarts Kingdom', Info = ''},
+	[3] = {id = 3, NameZh = 'Kafra Co.', Emblem = '', Leader = '', Superior = '', HQ = 'Al De Baran', Force = 'Neutral', Info = ''},
+	[4] = {id = 4, NameZh = 'Adventurer’s Guild', Emblem = '', Leader = '', Superior = '', HQ = 'Prontera', Force = 'Rune-Midgarts Kingdom', Info = ''},
+	[5] = {id = 5, NameZh = 'Biotechnology Bio lab', Emblem = '', Leader = '', Superior = 'Rekenber Co.', HQ = 'Lighthalzen', Force = 'Hughfezfed Republic', Info = ''},
+	[6] = {id = 6, NameZh = 'Battle Training Grounds', Emblem = '', Leader = '', Superior = 'Rekenber Co.', HQ = 'Prontera', Force = '', Info = ''},
+	[7] = {id = 7, NameZh = 'Rekenber Co.', Emblem = '', Leader = '', Superior = '', HQ = '', Force = '', Info = ''},
+	[8] = {id = 8, NameZh = 'Midgard Geographic magazine', Emblem = '', Leader = '', Superior = '', HQ = 'Prontera', Force = 'Rune-Midgarts Kingdom', Info = ''},
+	[9] = {id = 9, NameZh = 'Sewer Guard', Emblem = '', Leader = '', Superior = 'Prontera Garrison', HQ = 'Prontera', Force = 'Rune-Midgarts Kingdom', Info = ''},
+	[10] = {id = 10, NameZh = 'Prontera Garrison', Emblem = '', Leader = '', Superior = '', HQ = 'Prontera', Force = 'Rune-Midgarts Kingdom', Info = ''},
+	[11] = {id = 11, NameZh = 'The Royal Knights', Emblem = '', Leader = '', Superior = '', HQ = 'Prontera', Force = 'Rune-Midgarts Kingdom', Info = ''},
+	[12] = {id = 12, NameZh = 'Anthem Order', Emblem = '', Leader = '', Superior = '', HQ = 'Prontera', Force = 'Rune-Midgarts Kingdom', Info = ''},
+	[13] = {id = 13, NameZh = 'Mages Guild', Emblem = '', Leader = '', Superior = '', HQ = 'Geffen', Force = 'Rune-Midgarts Kingdom', Info = ''},
+	[14] = {id = 14, NameZh = 'Hunters’ Guild', Emblem = '', Leader = '', Superior = '', HQ = 'Payon', Force = 'Rune-Midgarts Kingdom', Info = ''},
+	[15] = {id = 15, NameZh = 'Assassins’ Guild', Emblem = '', Leader = '', Superior = '', HQ = 'Morroc', Force = 'Rune-Midgarts Kingdom', Info = ''},
+	[16] = {id = 16, NameZh = 'Alberta Trade Association', Emblem = '', Leader = '', Superior = '', HQ = 'Alberta', Force = 'Rune-Midgarts Kingdom', Info = ''},
+	[17] = {id = 17, NameZh = 'Witty Ladies Unit', Emblem = '', Leader = '', Superior = '', HQ = 'Prontera', Force = 'Rune-Midgarts Kingdom', Info = ''},
+	[18] = {id = 18, NameZh = 'Cool Event Corp.', Emblem = '', Leader = '', Superior = '', HQ = '', Force = '', Info = ''},
+	[19] = {id = 19, NameZh = 'Morroc Continental Guard', Emblem = '', Leader = '', Superior = '', HQ = 'Morroc', Force = 'Rune-Midgarts Kingdom', Info = ''},
+	[20] = {id = 20, NameZh = 'Fantasy Circus', Emblem = '', Leader = '', Superior = '', HQ = '', Force = '', Info = ''},
+}
+return Table_Org

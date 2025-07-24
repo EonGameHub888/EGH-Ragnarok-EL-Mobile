@@ -1,0 +1,12 @@
+--md5:1ab3ecd12bad35ca8d4f017b47bfa0d9
+Table_JPushSchedule = { 
+	[1] = {id = 1, Message = 'Star Monsters are invading. Adventurers, please kill them!', Start = '2018-05-01 05:00:00', End = '', Time = '20:28:00', TimeUnit = 'day', Frequency = 1, Point = {}, Tag = {"Star"}},
+	[100] = {id = 100, Message = 'The Guild War is imminent!', Start = '2018-05-01 05:00:00', End = '', Time = '20:58:00', TimeUnit = 'week', Frequency = 1, Point = {"THU"}, Tag = {"Guild"}},
+	[101] = {id = 101, Message = 'Fight for glory! The Guild War is starting soon!', Start = '2018-05-01 05:00:00', End = '', Time = '20:58:00', TimeUnit = 'week', Frequency = 1, Point = {"SUN"}, Tag = {"Guild"}},
+	[150] = {id = 150, Message = 'Big Cat Flying Saucer is trying to berth. Stop it!', Start = '2018-05-01 05:00:00', End = '', Time = '19:58:01', TimeUnit = 'week', Frequency = 1, Point = {"SAT"}, Tag = {"Bigcat"}},
+	[151] = {id = 151, Message = 'Kafra Company: The six of our company’s pretty girls were abducted by the Monster King and their present whereabouts is unknown. Adventurers, please gather together and save them.', Start = '2018-05-01 05:00:00', End = '', Time = '19:48:00', TimeUnit = 'week', Frequency = 1, Point = {"TUE"}, Tag = {"Bigcat"}},
+	[152] = {id = 152, Message = 'Register for [MVP Battle] is available now. Fight together with your friends!', Start = '2018-05-01 05:00:00', End = '', Time = '68280', TimeUnit = 'week', Frequency = 1, Point = {"FRI"}, Tag = {"Bigcat"}},
+	[170] = {id = 170, Message = 'The Auction Items for tonight is decided. Check if there’s anything you like.', Start = '2018-05-01 05:00:00', End = '', Time = '11:58:00', TimeUnit = 'week', Frequency = 1, Point = {"FRI"}, Tag = {"Auction"}},
+	[200] = {id = 200, Message = 'The magic turbulence is ready to make trouble. Transform to Poring and fight together!', Start = '2018-05-01 05:00:00', End = '', Time = '19:58:00', TimeUnit = 'week', Frequency = 1, Point = {"WED"}, Tag = {"Polly"}},
+}
+return Table_JPushSchedule

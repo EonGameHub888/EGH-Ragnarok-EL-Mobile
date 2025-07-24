@@ -1,0 +1,10 @@
+--md5:851c1f1c78861d511acfdaa1dea613cd
+Table_SecuritySetting = { 
+	[1] = {id = 1, Desc = '1. Deleting Character', param = {}},
+	[2] = {id = 2, Desc = '2. Deleting Friends, guild related', param = {}},
+	[3] = {id = 3, Desc = '3. Buying, selling, and sending gifts in Exchange', param = {}},
+	[4] = {id = 4, Desc = '4. Equipment upgrades; socketing, enchantment, refining, Salvage', param = {}},
+	[5] = {id = 5, Desc = '5. Buy and sale on Auction House', param = {}},
+	[6] = {id = 6, Desc = 'Stall purchase and new coming', param = {}},
+}
+return Table_SecuritySetting

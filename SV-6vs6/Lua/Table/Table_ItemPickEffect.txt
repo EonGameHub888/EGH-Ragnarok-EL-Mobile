@@ -1,0 +1,27 @@
+--md5:2a9ba0287018ff2ea4b3cd3bb934ff09
+Table_ItemPickEffect = { 
+	[12600] = {id = 12600, NameZh = 'Full Swing', Effect = {type="addbuff",id=161160}},
+	[12601] = {id = 12601, NameZh = 'Skate shoes', Effect = {type="addbuff",id=161170}},
+	[12602] = {id = 12602, NameZh = 'First-aid Kit', Effect = {type="addbuff",id=161180}},
+	[12603] = {id = 12603, NameZh = 'Armor', Effect = {type="addbuff",id=161190}},
+	[12604] = {id = 12604, NameZh = 'Kerosene', Effect = {type="addbuff",id=161200}},
+	[12605] = {id = 12605, NameZh = 'Mestinon', Effect = {type="addbuff",id=161210}},
+	[12606] = {id = 12606, NameZh = 'Pocket Watch', Effect = {type="addbuff",id=161220}},
+	[12607] = {id = 12607, NameZh = 'Shield', Effect = {type="addbuff",id=161230}},
+	[12608] = {id = 12608, NameZh = 'Purifier', Effect = {type="killer",id={210000,210001}}},
+	[12609] = {id = 12609, NameZh = 'Cheater Card', Effect = {type="addbuff",id=161270}},
+	[12610] = {id = 12610, NameZh = 'Thor’s Swiftness', Effect = {type="addbuff",id=161390}},
+	[12611] = {id = 12611, NameZh = 'Valkyrie’s Vision', Effect = {type="addbuff",id=161400}},
+	[12612] = {id = 12612, NameZh = 'Baldur’s Protection', Effect = {type="addbuff",id=161410}},
+	[12613] = {id = 12613, NameZh = 'Tyr’s Valor', Effect = {type="addbuff",id=161420}},
+	[12614] = {id = 12614, NameZh = 'Odin’s Blessing', Effect = {type="addbuff",id=161430}},
+	[12615] = {id = 12615, NameZh = 'Loki’s Cunning', Effect = {type="addbuff",id=161440}},
+	[12616] = {id = 12616, NameZh = 'Freya’s Wisdom', Effect = {type="addbuff",id=161450}},
+	[12620] = {id = 12620, NameZh = 'Lv. 40 Base Card', Effect = {type="basetolevel",num=40}},
+	[12621] = {id = 12621, NameZh = 'Lv. 80 Base Card', Effect = {type="basetolevel",num=80}},
+	[12622] = {id = 12622, NameZh = 'Transfer 1 Job Lv. 40', Effect = {type="jobtolevel", num=50}},
+	[12623] = {id = 12623, NameZh = 'Transfer 2 Job Lv. 40', Effect = {type="jobtolevel", num=90}},
+	[12624] = {id = 12624, NameZh = 'Transfer 2 Advanced Job 40', Effect = {type="jobtolevel", num=130}},
+	[12637] = {id = 12637, NameZh = 'Lv. 99 Base Card', Effect = {type="basetolevel",num=99}},
+}
+return Table_ItemPickEffect

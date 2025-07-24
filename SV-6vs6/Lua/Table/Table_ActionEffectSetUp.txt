@@ -1,0 +1,9 @@
+--md5:70763286e592d7db0f545c615aeda47f
+Table_ActionEffectSetUp = { 
+	[1] = {id = 1, NameZh = 'Mechanic male Playshow', Path = 'Skill/PlayShow_M', EPID = 2, EPFollow = 1, Loop = 1},
+	[2] = {id = 2, NameZh = 'Mechanic female Playshow', Path = 'Skill/PlayShow_F', EPID = 2, EPFollow = 1, Loop = 1},
+	[3] = {id = 3, NameZh = 'Kaho Playshow', Path = 'Skill/PlayShow', EPID = 2, EPFollow = 1, Loop = 1},
+	[4] = {id = 4, NameZh = 'Mechanic Mecha male Metroid playshow', Path = 'Skill/MagicGear_PS01_M', EPID = 2, EPFollow = 1, Loop = 1},
+	[5] = {id = 5, NameZh = 'Mechanic Mecha female Metroid playshow', Path = 'Skill/MagicGear_PS01_F', EPID = 2, EPFollow = 1, Loop = 1},
+}
+return Table_ActionEffectSetUp

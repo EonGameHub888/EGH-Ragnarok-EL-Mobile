@@ -1,0 +1,13 @@
+--md5:e7084516d36d74bc2c8942d6baf35eba
+Table_DeathEffect = { 
+	[10107] = {id = 10107, NameZh = 'R1 Mage Cat', Type = 1, Effect = 'Skill/Teleport', EffectSe = 'Common/Teleport', Parameter = {}},
+	[10108] = {id = 10108, NameZh = 'R1 Fighting Cat', Type = 1, Effect = 'Skill/Teleport', EffectSe = 'Common/Teleport', Parameter = {}},
+	[10109] = {id = 10109, NameZh = 'R1 Cook Cat', Type = 1, Effect = 'Skill/Teleport', EffectSe = 'Common/Teleport', Parameter = {}},
+	[10110] = {id = 10110, NameZh = 'R1 Ninja Cat', Type = 1, Effect = 'Skill/Teleport', EffectSe = 'Common/Teleport', Parameter = {}},
+	[10113] = {id = 10113, NameZh = 'R2 Mage Cat', Type = 1, Effect = 'Skill/Teleport', EffectSe = 'Common/Teleport', Parameter = {}},
+	[10114] = {id = 10114, NameZh = 'R2 Fighting Cat', Type = 1, Effect = 'Skill/Teleport', EffectSe = 'Common/Teleport', Parameter = {}},
+	[10115] = {id = 10115, NameZh = 'R2 Cook Cat', Type = 1, Effect = 'Skill/Teleport', EffectSe = 'Common/Teleport', Parameter = {}},
+	[10116] = {id = 10116, NameZh = 'R2 Ninja Cat', Type = 1, Effect = 'Skill/Teleport', EffectSe = 'Common/Teleport', Parameter = {}},
+	[30025] = {id = 30025, NameZh = 'Cat Flying Saucer', Type = 1, Effect = '', EffectSe = '', Parameter = {effect_on="Skill/UFOBoom",ep=1,se_on="Common/Teleport"}},
+}
+return Table_DeathEffect

@@ -1,0 +1,20 @@
+--md5:4841274157565d239953d6238d38ffca
+Table_GuildPVE_Map = { 
+	[210001] = {id = 210001, Name = 'Entrance 1', Type = 1, LinkMapType = {2}, Environment = ''},
+	[210002] = {id = 210002, Name = 'Entrance 2', Type = 1, LinkMapType = {2}, Environment = ''},
+	[220001] = {id = 220001, Name = 'Corridor 1', Type = 2, LinkMapType = {1,2}, Environment = ''},
+	[220002] = {id = 220002, Name = 'Corridor 2', Type = 2, LinkMapType = {1,2,3}, Environment = ''},
+	[220003] = {id = 220003, Name = 'Corridor 3', Type = 2, LinkMapType = {1,2,3,4}, Environment = ''},
+	[220004] = {id = 220004, Name = 'Corridor 4', Type = 2, LinkMapType = {1,2,3}, HaveBoss = 1, Environment = ''},
+	[220005] = {id = 220005, Name = 'Corridor 5', Type = 2, LinkMapType = {1,2}, HaveBoss = 1, Environment = ''},
+	[220006] = {id = 220006, Name = 'Corridor 4 - 2', Type = 2, LinkMapType = {1,2,3}, Environment = ''},
+	[220007] = {id = 220007, Name = 'Corridor 5 - 2', Type = 2, LinkMapType = {1,2}, Environment = ''},
+	[220008] = {id = 220008, Name = 'Corridor 3 - 2', Type = 2, LinkMapType = {1,2,3,4}, HaveBoss = 1, Environment = ''},
+	[220009] = {id = 220009, Name = 'Corridor 5', Type = 2, LinkMapType = {1,2,3,4}, Environment = ''},
+	[220010] = {id = 220010, Name = 'Corridor 6', Type = 2, LinkMapType = {1,2}, HaveBoss = 1, Environment = ''},
+	[220011] = {id = 220011, Name = 'Corridor 7', Type = 2, LinkMapType = {1,2,3,4}, Environment = ''},
+	[230001] = {id = 230001, Name = 'Broken Path Scene 1', Type = 3, LinkMapType = {1}, Environment = ''},
+	[230002] = {id = 230002, Name = 'Broken Path Scene 2', Type = 3, LinkMapType = {1}, HaveBoss = 1, Environment = ''},
+	[240001] = {id = 240001, Name = 'Final Point 1', Type = 4, LinkMapType = {1}, HaveBoss = 1, Environment = ''},
+}
+return Table_GuildPVE_Map

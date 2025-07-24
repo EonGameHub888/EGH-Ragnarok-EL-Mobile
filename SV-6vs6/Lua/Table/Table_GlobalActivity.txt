@@ -1,0 +1,21 @@
+--md5:148be9cd8c9b073b8a99f09730f3c259
+Table_GlobalActivity = { 
+	[14] = {id = 14, Type = 14, Name = 'Divination', Param = {10006,1}, Desc = 'Reward id, Times'},
+	[15] = {id = 15, Type = 15, Name = 'Guild quests doubled', Param = {2}, Desc = 'Times'},
+	[16] = {id = 16, Type = 16, Name = 'Guild donation doubled', Param = {10}, Desc = 'Times'},
+	[17] = {id = 17, Type = 17, Name = 'Guild dungeon doubled', Param = {2}, Desc = 'Times'},
+	[19] = {id = 19, Type = 19, Name = 'NoviceWelfare', Param = {10006,1}, Desc = 'Reward id, Times'},
+	[20] = {id = 20, Type = 20, Name = 'Normal refinement zeny 10% off', Param = {90}, Desc = 'Discount / 100'},
+	[21] = {id = 21, Type = 21, Name = 'Safe refinement materials ＋ zeny 20% off', Param = {80}, Desc = 'Discount / 100'},
+	[22] = {id = 22, Type = 22, Name = 'Safe Refining equipment cost - 20% off', Param = {}, Desc = ''},
+	[23] = {id = 23, Type = 23, Name = 'Return event', Param = {1}, Desc = 'Event id'},
+	[24] = {id = 24, Type = 24, Name = 'Gashapon bonus reward', Param = {1011,5}, Desc = 'rewardid, gashapon type (support multiple)'},
+	[25] = {id = 25, Type = 25, Name = 'Event Pet Working Place', Param = {}, Desc = ''},
+	[26] = {id = 26, Type = 26, Name = 'Wedding Ceremony Discount', Param = {6076,5000,6077,5000,6078,5000}, Desc = ''},
+	[27] = {id = 27, Type = 27, Name = 'Taste the even ingredients for a chance to gain the recipe.', Param = {}, Desc = ''},
+	[101] = {id = 101, Type = 101, Name = 'Ultraman dungeon', Param = {}, Desc = ''},
+	[100001] = {id = 100001, Type = 30, Name = 'Reward doubled', LimitCount = 1, LimitType = 1, Param = {1,2}, Desc = 'Product id, Times'},
+	[100002] = {id = 100002, Type = 31, Name = 'Modern gift bag 50%', LimitCount = 1, LimitType = 1, Param = {17,18}, Desc = 'Original product id, new product id'},
+	[100003] = {id = 100003, Type = 32, Name = 'Modern gift bag extra one', LimitCount = 1, LimitType = 1, Param = {17}, Desc = 'Product id'},
+}
+return Table_GlobalActivity
